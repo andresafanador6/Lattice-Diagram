@@ -1,1 +1,1 @@
-This code present a lattice Diagram un python
+This code present a lattice Diagram in python
